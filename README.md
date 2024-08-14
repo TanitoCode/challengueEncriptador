@@ -10,8 +10,8 @@ Cifrado: Permite cifrar un mensaje utilizando una clave. Descifrado: Permite des
 2- Selecciona la acción que deseas realizar (encriptar o desencriptar).
 ![image](https://github.com/user-attachments/assets/a0631474-fa65-4a0c-aa69-6afa4ef2e08b)
 
-4- El resultado se mostrará en la pantalla.
-![image](https://github.com/user-attachments/assets/051348ea-8bd2-45d2-b488-5e0f5bb83e64)
+3- El resultado se mostrará en la pantalla.
+![image](https://github.com/user-attachments/assets/d119a747-a51b-414d-a338-fd2420f47ecd)
 
 
 Ejemplo:
